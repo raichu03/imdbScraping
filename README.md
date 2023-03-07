@@ -1,2 +1,2 @@
-# redditScraping
-scraping of post by various users of reddit in r/Nepal 
+# vegetableData
+daily price of varuous data and vegetables are collected
